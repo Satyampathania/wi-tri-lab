@@ -1,0 +1,19 @@
+witri-lab/
+│
+├── start.py
+├── README.md
+├── .gitignore
+│
+├── resources/
+│   ├── python_basics.md
+│   ├── python_for_hackers.md
+│   ├── subprocess_guide.md
+│   └── networking_concepts.md
+│
+└── lessons/
+    ├── 01_scanner/
+    ├── 02_json_logging/
+    ├── 03_detection_rules/
+    ├── 04_notifications/
+    ├── 05_cli_and_args/
+    └── 06_witri_beacon/
