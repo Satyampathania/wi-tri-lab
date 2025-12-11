@@ -4,7 +4,7 @@ Terminal-first, hands-on Python lab to learn Linux cybersec and ship Wi-Tri Beac
 
 Clone the repo and run:
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Satyampathania/wi-tri-lab)
 cd witri-lab
 python3 start.py
 ```
