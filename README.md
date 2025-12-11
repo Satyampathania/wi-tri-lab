@@ -6,7 +6,7 @@ witri-lab/
 ├── resources/
 │   ├── python_basics.md
 │   ├── python_for_hackers.md
-│   ├── subprocess_guide.md
+│   ├── subprocess_guide.md.
 │   └── networking_concepts.md
 ├── lessons/
 │   ├── 01_scanner/
